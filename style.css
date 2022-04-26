@@ -8,7 +8,7 @@
 body{
 	height: 100vh;
 	width: 100%;
-    background-image: url(bg.jpg);
+    background-image: url(/img/bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -87,6 +87,7 @@ input:hover {
     border-color: crimson;
     background-color: rgba(248, 217, 223, 0.753);
 }
+
 @media screen and (max-width: 1000px){
 
 }
