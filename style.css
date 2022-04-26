@@ -20,7 +20,7 @@ body{
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	padding: 20px 100px;
+	/*padding: 20px 100px;*/
 }
 .content{
 	max-width: 850px;
@@ -81,9 +81,13 @@ height: 70px;
 border-radius: 50%;
 border: 3px solid navy;
 margin-right: 10px;
-
 }
-@media screen and (min-width: 1000px){
+
+input:hover {
+    border-color: crimson;
+    background-color: rgba(248, 217, 223, 0.753);
+}
+@media screen and (max-width: 1000px){
 
 }
 
@@ -93,7 +97,7 @@ margin-right: 10px;
     flex-direction: column;
     }
 }
-@media screen and (max-width: 400px){
+@media screen and (max-width: 375px){
 .container {
     margin-top: 50px;
     }
