@@ -4,4 +4,4 @@
 
 ### Task screenshot
 
-![Screenshot](/img/Picture3.png)
+![Screenshot](./img/Picture3.png)
