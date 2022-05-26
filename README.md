@@ -1,6 +1,6 @@
 ### Project
 
-[View](https://st-dev28.github.io/project_11-form/)
+[View](https://st-dev28.github.io/wgt_11-form/)
 
 ### Task screenshot
 
